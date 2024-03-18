@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 
@@ -13,7 +12,7 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText}`}>Hi, I'm <span className="text-[#e8c52a]">Baker</span></h1>
+          <h1 className={`${styles.heroHeadText}`}>Hi, I'm <span className="text-gold">Baker</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I maintain IT systems, <br className='sm:block hidden' />
             solve tech issues, and support users.
@@ -22,6 +21,18 @@ const Hero = () => {
       </div>
 
       <ComputersCanvas />
+
+      <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
+        <a href='#about'>
+          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-gold flex justify-center items-start p-2'>
+            <motion.div
+              animate={{y: [0, 24, 0]}}
+              transition={{duration: 2, repeat: Infinity, repeatType: "loop"}}
+              className='w-3 h-3 rounded-full bg-white-100 mb-1'
+            />
+          </div>
+        </a>
+      </div>
 
     </section>
   );
