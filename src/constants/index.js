@@ -16,8 +16,8 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
-    tesla,
+    developmentHomesInc,
+    diamondGraphicsLLC,
     shopify,
     carrent,
     jobit,
@@ -116,22 +116,29 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Technology Support Associate",
+      company_name: "Development Homes Inc",
+      icon: developmentHomesInc,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Provide support to a variety of clients including HR, Nurses, Finances, and C-suite executives.",
+        "Provide Help Desk support via phone/email to the employees in a timely manner.",
+        "Diagnose and solve computer, laptop, tablet, and phone hardware and software problems.",
+        "Create new AD accounts for users, manage permissions, and deactivate retired accounts for old employees based on HR requests.",
+        "Setup Windows laptops, Desktops, tablets, printers, and phones for employees, manage inventory, and provide training on these devices as needed.",
+        "Communicate with various vendors and provide recommendations based on the company's needs and budget.",
+        "Setup and provide support to VoIP system including setup of the phone number, speed dial, location, and general maintenance to the system.",
+        "Working with various departments to approve and deploy Snipe-IT to better manage our inventory and provide a higher level of security.",
+        "Maintaining DHI's website by working with the CEO on various designs and content ideas.",
+        "Management of the company and its multisite firewall and add exceptions of it as needed.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "IT Support Technician",
+      company_name: "Diamond Graphics LLC",
+      icon: diamondGraphicsLLC,
+      company_url: "https://dgiusa.net/",
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -140,33 +147,7 @@ import {
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    }
   ];
   
   const testimonials = [
