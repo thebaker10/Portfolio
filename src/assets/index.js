@@ -19,7 +19,11 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import windows11 from "./tech/windows11.png";
+import knowBe4 from "./tech/knowBe4.png";
+import duo from "./tech/duo.png";
+
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -41,6 +45,9 @@ export {
   close,
   css,
   docker,
+  windows11,
+  knowBe4,
+  duo,
   figma,
   git,
   html,
@@ -51,7 +58,6 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
   meta,
   shopify,
   developmentHomesInc,

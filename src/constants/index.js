@@ -15,6 +15,9 @@ import {
     git,
     figma,
     docker,
+    knowBe4,
+    duo,
+    windows11,
     meta,
     developmentHomesInc,
     diamondGraphicsLLC,
@@ -22,7 +25,6 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -81,24 +83,12 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
     {
       name: "Node JS",
       icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
     },
     {
       name: "git",
@@ -111,6 +101,18 @@ import {
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "windows",
+      icon: windows11,
+    },
+    {
+      name: "knowBe4",
+      icon: knowBe4,
+    },
+    {
+      name: "duo",
+      icon: duo,
     },
   ];
   
