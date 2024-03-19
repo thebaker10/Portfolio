@@ -120,7 +120,7 @@ import {
       company_name: "Development Homes Inc",
       icon: developmentHomesInc,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "November 2021 - July 2022",
       points: [
         "Provide support to a variety of clients including HR, Nurses, Finances, and C-suite executives.",
         "Provide Help Desk support via phone/email to the employees in a timely manner.",
@@ -138,14 +138,17 @@ import {
       title: "IT Support Technician",
       company_name: "Diamond Graphics LLC",
       icon: diamondGraphicsLLC,
-      company_url: "https://dgiusa.net/",
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "November 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Led the KnowBe4 campaign within the organization to increase cybersecurity awareness dropping phishing-prone users from 50.1%to7.1%",
+        "Deployment and management of Docker Server with several web-based applications to streamline various IT processes.",
+        "Deployment and management of custom DNS server to limit internet access to important security updates on specialty equipment.",
+        "Development of a label tracking system to improve our internal processes resulting in higher yields and lower error rates",
+        "Management of domain-joined devices through Active Directory, Mobile Device Management,and Apple Business Manager.",
+        "Provided high-quality support services and adhere to SLA standards set by the organization",
+        "Developed a knowledge base for IT processes and currently expanding into other departments based on user feedback and ticket reports.",
+
       ],
     }
   ];
