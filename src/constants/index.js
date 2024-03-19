@@ -21,8 +21,8 @@ import {
     meta,
     developmentHomesInc,
     diamondGraphicsLLC,
+    labelTracking,
     shopify,
-    carrent,
     jobit,
     tripguide,
   } from "../assets";
@@ -184,54 +184,13 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Labels Tracking System",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Development of a label tracking system that allows you track, add, take labels with logs and users login."
+        ,
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
           color: "blue-text-gradient",
         },
         {
@@ -239,13 +198,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+      image: labelTracking,
+      source_code_link: "https://github.com/DGI-bakeralshaban/label-tracking-2",
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects };

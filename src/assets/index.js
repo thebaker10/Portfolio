@@ -30,7 +30,7 @@ import shopify from "./company/shopify.png";
 import developmentHomesInc from "./company/developmentHomesInc.ico";
 import diamondGraphicsLLC from "./company/diamondGraphicsLLC.png";
 
-import carrent from "./carrent.png";
+import labelTracking from "./labelTracking.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -53,6 +53,7 @@ export {
   html,
   javascript,
   mongodb,
+  labelTracking,
   nodejs,
   reactjs,
   redux,
@@ -62,7 +63,6 @@ export {
   shopify,
   developmentHomesInc,
   diamondGraphicsLLC,
-  carrent,
   jobit,
   tripguide,
 };
