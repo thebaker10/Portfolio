@@ -1,30 +1,24 @@
 import {
     mobile,
-    backend,
-    creator,
+    it,
+    cyber,
     web,
     javascript,
     typescript,
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
-    mongodb,
     git,
     figma,
     docker,
     knowBe4,
     duo,
     windows11,
-    meta,
     developmentHomesInc,
     diamondGraphicsLLC,
     labelTracking,
-    shopify,
-    jobit,
-    tripguide,
   } from "../assets";
   
   export const navLinks = [
@@ -53,11 +47,11 @@ import {
     },
     {
       title: "IT Support Specialist",
-      icon: backend,
+      icon: it,
     },
     {
       title: "Cyber Security",
-      icon: creator,
+      icon: cyber,
     },
   ];
   

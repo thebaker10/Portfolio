@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.png";
+import it from "./it.png";
+import cyber from "./cyber.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -24,9 +24,6 @@ import knowBe4 from "./tech/knowBe4.png";
 import duo from "./tech/duo.png";
 
 
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
 import developmentHomesInc from "./company/developmentHomesInc.ico";
 import diamondGraphicsLLC from "./company/diamondGraphicsLLC.png";
 
@@ -36,8 +33,8 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
-  backend,
-  creator,
+  it,
+  cyber,
   mobile,
   web,
   github,
@@ -59,8 +56,6 @@ export {
   redux,
   tailwind,
   typescript,
-  meta,
-  shopify,
   developmentHomesInc,
   diamondGraphicsLLC,
   jobit,
