@@ -1,5 +1,4 @@
 import {
-    mobile,
     it,
     cyber,
     web,
@@ -43,7 +42,7 @@ import {
     },
     {
       title: "React Native Developer",
-      icon: mobile,
+      icon: reactjs,
     },
     {
       title: "IT Support Specialist",

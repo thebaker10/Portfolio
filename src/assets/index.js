@@ -1,7 +1,6 @@
 import logo from "./logo.svg";
 import it from "./it.png";
 import cyber from "./cyber.png";
-import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -28,14 +27,11 @@ import developmentHomesInc from "./company/developmentHomesInc.ico";
 import diamondGraphicsLLC from "./company/diamondGraphicsLLC.png";
 
 import labelTracking from "./labelTracking.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 export {
   logo,
   it,
   cyber,
-  mobile,
   web,
   github,
   menu,
@@ -58,6 +54,4 @@ export {
   typescript,
   developmentHomesInc,
   diamondGraphicsLLC,
-  jobit,
-  tripguide,
 };
