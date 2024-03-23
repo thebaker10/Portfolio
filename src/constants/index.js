@@ -110,6 +110,24 @@ import {
   ];
   
   const experiences = [
+
+    {
+      title: "IT Support Technician",
+      company_name: "Diamond Graphics LLC",
+      icon: diamondGraphicsLLC,
+      iconBg: "#E6DEDD",
+      date: "November 2022 - Present",
+      points: [
+        "Led the KnowBe4 campaign within the organization to increase cybersecurity awareness dropping phishing-prone users from 50.1%to7.1%",
+        "Deployment and management of Docker Server with several web-based applications to streamline various IT processes.",
+        "Deployment and management of custom DNS server to limit internet access to important security updates on specialty equipment.",
+        "Development of a label tracking system to improve our internal processes resulting in higher yields and lower error rates",
+        "Management of domain-joined devices through Active Directory, Mobile Device Management,and Apple Business Manager.",
+        "Provided high-quality support services and adhere to SLA standards set by the organization",
+        "Developed a knowledge base for IT processes and currently expanding into other departments based on user feedback and ticket reports.",
+
+      ],
+    },
     {
       title: "Technology Support Associate",
       company_name: "Development Homes Inc",
@@ -129,23 +147,6 @@ import {
         "Management of the company and its multisite firewall and add exceptions of it as needed.",
       ],
     },
-    {
-      title: "IT Support Technician",
-      company_name: "Diamond Graphics LLC",
-      icon: diamondGraphicsLLC,
-      iconBg: "#E6DEDD",
-      date: "November 2022 - Present",
-      points: [
-        "Led the KnowBe4 campaign within the organization to increase cybersecurity awareness dropping phishing-prone users from 50.1%to7.1%",
-        "Deployment and management of Docker Server with several web-based applications to streamline various IT processes.",
-        "Deployment and management of custom DNS server to limit internet access to important security updates on specialty equipment.",
-        "Development of a label tracking system to improve our internal processes resulting in higher yields and lower error rates",
-        "Management of domain-joined devices through Active Directory, Mobile Device Management,and Apple Business Manager.",
-        "Provided high-quality support services and adhere to SLA standards set by the organization",
-        "Developed a knowledge base for IT processes and currently expanding into other departments based on user feedback and ticket reports.",
-
-      ],
-    }
   ];
   
   const testimonials = [
